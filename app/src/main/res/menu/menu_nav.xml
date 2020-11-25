@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnu_home"
+        android:icon="@drawable/trangchu"
+        android:contentDescription="Trang chủ"
+        android:title="Trang chủ"></item>
+    <item
+        android:id="@+id/mnu_list"
+        android:icon="@drawable/dm"
+        android:contentDescription="Danh mục"
+        android:title="Danh mục"></item>
+    <item
+        android:id="@+id/mnu_favor"
+        android:icon="@drawable/yeuthich"
+        android:contentDescription="Yêu thích"
+        android:title="Yêu thích"></item>
+    <item
+        android:id="@+id/mnu_acc"
+        android:icon="@drawable/account"
+        android:contentDescription="Cá nhân"
+        android:title="Cá nhân"></item>
+
+</menu>
